@@ -1,0 +1,47 @@
+Feedback,Positive,Neutral,Negative,Compound,Sentiment
+The platform gives a clear and helpful overview of Ghana's EdTeach Strategy and the areas it aims to strengthen.,0.325,0.675,0.0,0.7717,Positive
+It does a good job explaining the key priorities in the education sector and how technology is being used to improve learning.,0.225,0.775,0.0,0.7003,Positive
+There isn’t enough detail on how the strategy supports learners with disabilities or those in special education.,0.257,0.743,0.0,0.6369,Positive
+"It doesn’t show where the information comes from, so it’s hard to confirm if the answers are from official sources.",0.0,0.919,0.081,-0.1725,Negative
+"It is a very simple, clean and engaging bot. The prompts make it very easy for first timers to fully engage and be locked in.",0.349,0.651,0.0,0.8824,Positive
+"The follow up questions are also great and spot on, giving users more insight into the topics.",0.302,0.698,0.0,0.7579,Positive
+"On areas of persons with disability, the responses or strategies appeared to be very generic with little in depth solutions or examples.",0.064,0.936,0.0,0.1119,Positive
+For some reason I was unable to access the microphone option.,0.0,1.0,0.0,0.0,Neutral
+The platform is very informative on topics or domains that are being provided.,0.0,1.0,0.0,0.0,Neutral
+It also addresses the key areas that need improvement in Ghana's education sector.,0.2,0.8,0.0,0.4588,Positive
+There is limited information on the strategy put in place for special education.,0.173,0.705,0.122,0.2023,Positive
+"The platform does not also provide specific solution to certain education needs. An example is, I asked the chatbot to give me specific technologies put in place to help people in special education and the response was just about providing digital platform that will help them.",0.234,0.766,0.0,0.8885,Positive
+"The chatbot is helpful and easy to use. The flow is smooth, and it gives quick responses that make the interaction feel easy.",0.301,0.699,0.0,0.8225,Positive
+"Sometimes, it feels a bit limited in how it answers questions, so improving the depth of responses and personalization would make it even more useful.",0.222,0.716,0.062,0.7104,Positive
+The chatbot feels more like reading a textbook than a conversational text. It gives answers but doesn’t really engage the user or make the discussion interactive or interesting.,0.264,0.736,0.0,0.8396,Positive
+It doesn’t adapt its responses to help users understand better. It’s very restricted.,0.303,0.541,0.156,0.4033,Positive
+"The chatbot  is user-friendly, responsive, and provides valuable educational support.",0.542,0.458,0.0,0.8074,Positive
+The addition of our local languages alongside English has made the platform more inclusive and accessible to a wider range of users across the country.,0.0,1.0,0.0,0.0,Neutral
+"In areas with limited internet connectivity, users may experience slow or interrupted responses.",0.0,0.728,0.272,-0.4767,Negative
+The interface could be more visually appealing and interactive to keep users engaged.,0.184,0.816,0.0,0.4019,Positive
+"Sometimes, it takes a bit longer to get a response.",0.0,1.0,0.0,0.0,Neutral
+"The platform is user friendly,simple to understand and navigate.",0.0,1.0,0.0,0.0,Neutral
+Each key strategies are detailed depending on your input and the processed data are easily to understand.,0.13,0.87,0.0,0.34,Positive
+"On the other hand the platform interface on mobile phone is not compelling to use ,the chatbox takes quite a space covering most of the processed data displayed.",0.104,0.842,0.054,0.3682,Positive
+I think the  logo or icon on the platform should take you back home when it been clicked on.,0.0,1.0,0.0,0.0,Neutral
+The prompts provided (What is the EdTech Strategy’s vision? Who are the key stakeholders?) make it easy for first-time users  to know where to start.,0.186,0.814,0.0,0.644,Positive
+The addition of local Ghanaian languages alongside English has made the platform more inclusive and accessible to a wider range of users across the country.,0.0,1.0,0.0,0.0,Neutral
+"Limited guidance for deeper or specialized questions ( users might not know how to ask about governance, cybersecurity, or implementation.)",0.0,0.909,0.091,-0.2263,Negative
+"The bot’s responses feel accurate but too brief and impersonal, missing the opportunity to educate users in an engaging, contextual, and empowering way.",0.216,0.602,0.182,0.2617,Positive
+"It makes education more accessible, breaks barriers of location and cost.",0.0,1.0,0.0,0.0,Neutral
+"It provides instant feedback, helping learners  correct mistakes.",0.206,0.561,0.234,-0.0772,Negative
+"It makes learning possible for everyone, anywhere.",0.0,1.0,0.0,0.0,Neutral
+Sometimes it’s not working or slow during busy times.,0.0,1.0,0.0,0.0,Neutral
+Not everyone has a device or internet at home.,0.0,1.0,0.0,0.0,Neutral
+The chatbot is a computer aid that talks to people and teaches them about how Ghana is using technology in schools.,0.0,1.0,0.0,0.0,Neutral
+"It does a good job of explaining the 14 main parts (called thematic areas) of Ghana’s plan in things like internet access, teacher training, and helping all students learn, even those with disabilities.",0.202,0.798,0.0,0.765,Positive
+"The chatbot’s tone is too formal and repetitive, often using the phrase “ the Ghana EdTech Strategy or under the Ghana EdTech Strategy”, which makes the interaction feel rigid.",0.0,0.885,0.115,-0.3612,Negative
+"It struggles to think beyond predefined responses, for example, it could not clearly define students with disabilities,after I had asked how the strategy supports students with disabilities.",0.08,0.768,0.152,-0.3089,Negative
+The chatbot provides responses that reflect a strong understanding of the Ghana EdTech Strategy.,0.202,0.798,0.0,0.5106,Positive
+It communicates clearly and uses appropriate professional language.,0.278,0.722,0.0,0.4019,Positive
+"The responses, while accurate, are sometimes too long and information dense which feels overwhelming. This is especially not useful for users seeking brief or specific answers.",0.0,0.903,0.097,-0.3988,Negative
+"The chatbot does not yet demonstrate adaptive conversational flow (e.g., simplifying answers based on user tone or question depth).",0.0,1.0,0.0,0.0,Neutral
+"The chatbot provides clear, well-structured and professional responses, and shows good understanding of the Ghana Edtech Strategy. It feels credible and informative.",0.216,0.784,0.0,0.6705,Positive
+"The tone is formal but polite, making it sound like an official source. However , it feels slightly stiff, giving textbook-like responses for casual users.",0.27,0.73,0.0,0.7982,Positive
+"The chatbot's responses sound like paragraphs from a policy document, not a natural dialogue. Users may find it informative but less engaging.",0.177,0.761,0.062,0.4321,Positive
+It gives static responses instead of asking follow up questions that will help users understand the information using examples and scenarios,0.119,0.881,0.0,0.4019,Positive
