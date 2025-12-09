@@ -1,47 +1,73 @@
 Feedback,Positive,Neutral,Negative,Compound,Sentiment
-The platform gives a clear and helpful overview of Ghana's EdTeach Strategy and the areas it aims to strengthen.,0.325,0.675,0.0,0.7717,Positive
-It does a good job explaining the key priorities in the education sector and how technology is being used to improve learning.,0.225,0.775,0.0,0.7003,Positive
-There isn’t enough detail on how the strategy supports learners with disabilities or those in special education.,0.257,0.743,0.0,0.6369,Positive
-"It doesn’t show where the information comes from, so it’s hard to confirm if the answers are from official sources.",0.0,0.919,0.081,-0.1725,Negative
-"It is a very simple, clean and engaging bot. The prompts make it very easy for first timers to fully engage and be locked in.",0.349,0.651,0.0,0.8824,Positive
-"The follow up questions are also great and spot on, giving users more insight into the topics.",0.302,0.698,0.0,0.7579,Positive
-"On areas of persons with disability, the responses or strategies appeared to be very generic with little in depth solutions or examples.",0.064,0.936,0.0,0.1119,Positive
-For some reason I was unable to access the microphone option.,0.0,1.0,0.0,0.0,Neutral
-The platform is very informative on topics or domains that are being provided.,0.0,1.0,0.0,0.0,Neutral
-It also addresses the key areas that need improvement in Ghana's education sector.,0.2,0.8,0.0,0.4588,Positive
-There is limited information on the strategy put in place for special education.,0.173,0.705,0.122,0.2023,Positive
-"The platform does not also provide specific solution to certain education needs. An example is, I asked the chatbot to give me specific technologies put in place to help people in special education and the response was just about providing digital platform that will help them.",0.234,0.766,0.0,0.8885,Positive
-"The chatbot is helpful and easy to use. The flow is smooth, and it gives quick responses that make the interaction feel easy.",0.301,0.699,0.0,0.8225,Positive
-"Sometimes, it feels a bit limited in how it answers questions, so improving the depth of responses and personalization would make it even more useful.",0.222,0.716,0.062,0.7104,Positive
-The chatbot feels more like reading a textbook than a conversational text. It gives answers but doesn’t really engage the user or make the discussion interactive or interesting.,0.264,0.736,0.0,0.8396,Positive
-It doesn’t adapt its responses to help users understand better. It’s very restricted.,0.303,0.541,0.156,0.4033,Positive
-"The chatbot  is user-friendly, responsive, and provides valuable educational support.",0.542,0.458,0.0,0.8074,Positive
-The addition of our local languages alongside English has made the platform more inclusive and accessible to a wider range of users across the country.,0.0,1.0,0.0,0.0,Neutral
-"In areas with limited internet connectivity, users may experience slow or interrupted responses.",0.0,0.728,0.272,-0.4767,Negative
-The interface could be more visually appealing and interactive to keep users engaged.,0.184,0.816,0.0,0.4019,Positive
-"Sometimes, it takes a bit longer to get a response.",0.0,1.0,0.0,0.0,Neutral
-"The platform is user friendly,simple to understand and navigate.",0.0,1.0,0.0,0.0,Neutral
-Each key strategies are detailed depending on your input and the processed data are easily to understand.,0.13,0.87,0.0,0.34,Positive
-"On the other hand the platform interface on mobile phone is not compelling to use ,the chatbox takes quite a space covering most of the processed data displayed.",0.104,0.842,0.054,0.3682,Positive
-I think the  logo or icon on the platform should take you back home when it been clicked on.,0.0,1.0,0.0,0.0,Neutral
-The prompts provided (What is the EdTech Strategy’s vision? Who are the key stakeholders?) make it easy for first-time users  to know where to start.,0.186,0.814,0.0,0.644,Positive
-The addition of local Ghanaian languages alongside English has made the platform more inclusive and accessible to a wider range of users across the country.,0.0,1.0,0.0,0.0,Neutral
-"Limited guidance for deeper or specialized questions ( users might not know how to ask about governance, cybersecurity, or implementation.)",0.0,0.909,0.091,-0.2263,Negative
-"The bot’s responses feel accurate but too brief and impersonal, missing the opportunity to educate users in an engaging, contextual, and empowering way.",0.216,0.602,0.182,0.2617,Positive
-"It makes education more accessible, breaks barriers of location and cost.",0.0,1.0,0.0,0.0,Neutral
-"It provides instant feedback, helping learners  correct mistakes.",0.206,0.561,0.234,-0.0772,Negative
-"It makes learning possible for everyone, anywhere.",0.0,1.0,0.0,0.0,Neutral
-Sometimes it’s not working or slow during busy times.,0.0,1.0,0.0,0.0,Neutral
-Not everyone has a device or internet at home.,0.0,1.0,0.0,0.0,Neutral
-The chatbot is a computer aid that talks to people and teaches them about how Ghana is using technology in schools.,0.0,1.0,0.0,0.0,Neutral
-"It does a good job of explaining the 14 main parts (called thematic areas) of Ghana’s plan in things like internet access, teacher training, and helping all students learn, even those with disabilities.",0.202,0.798,0.0,0.765,Positive
-"The chatbot’s tone is too formal and repetitive, often using the phrase “ the Ghana EdTech Strategy or under the Ghana EdTech Strategy”, which makes the interaction feel rigid.",0.0,0.885,0.115,-0.3612,Negative
-"It struggles to think beyond predefined responses, for example, it could not clearly define students with disabilities,after I had asked how the strategy supports students with disabilities.",0.08,0.768,0.152,-0.3089,Negative
-The chatbot provides responses that reflect a strong understanding of the Ghana EdTech Strategy.,0.202,0.798,0.0,0.5106,Positive
-It communicates clearly and uses appropriate professional language.,0.278,0.722,0.0,0.4019,Positive
-"The responses, while accurate, are sometimes too long and information dense which feels overwhelming. This is especially not useful for users seeking brief or specific answers.",0.0,0.903,0.097,-0.3988,Negative
-"The chatbot does not yet demonstrate adaptive conversational flow (e.g., simplifying answers based on user tone or question depth).",0.0,1.0,0.0,0.0,Neutral
-"The chatbot provides clear, well-structured and professional responses, and shows good understanding of the Ghana Edtech Strategy. It feels credible and informative.",0.216,0.784,0.0,0.6705,Positive
-"The tone is formal but polite, making it sound like an official source. However , it feels slightly stiff, giving textbook-like responses for casual users.",0.27,0.73,0.0,0.7982,Positive
-"The chatbot's responses sound like paragraphs from a policy document, not a natural dialogue. Users may find it informative but less engaging.",0.177,0.761,0.062,0.4321,Positive
-It gives static responses instead of asking follow up questions that will help users understand the information using examples and scenarios,0.119,0.881,0.0,0.4019,Positive
+The private can do more if they are regulated.,0.0,1.0,0.0,0.0,Neutral
+Low focus on experiential learning,0.0,0.656,0.344,-0.2732,Negative
+No focus on experiential learning,0.0,0.645,0.355,-0.296,Negative
+Some of the language used in the strategy are vague,0.0,0.865,0.135,-0.1027,Negative
+Where would a learner report an abuse if the need be? I recommend it is stated clearly for it to be easy for the learner to report an abuse case or issue. Thank you,0.226,0.596,0.179,0.0516,Positive
+We need to standardize EdTech solutions in for example; xAPI and SCORM for data collection and management. Standardize LMS etc.,0.082,0.918,0.0,0.1779,Positive
+The funding source is still not clear,0.0,0.733,0.267,-0.2924,Negative
+Yes source of funding is yet to be very clear to me. What is read here is more aspirational.,0.248,0.752,0.0,0.6801,Positive
+"With regards to the content, I think the 14 thematic areas are well encapsulating of the the issues we face in education in Ghana and the solutions needed to drive change in education in the country.",0.101,0.899,0.0,0.4215,Positive
+Is there a roadmap? What are timelines and how does success look like? The bit said there was no exact timeliness.,0.245,0.673,0.082,0.6553,Positive
+Great document. Role of private EdTech Startups should be more prominent.,0.426,0.574,0.0,0.7713,Positive
+Inclusivity incorporated. No one should be left out,0.0,0.761,0.239,-0.296,Negative
+Great tool to get stakeholders engaged,0.63,0.37,0.0,0.7783,Positive
+I would prefer the full document,0.0,1.0,0.0,0.0,Neutral
+"It is important to address the issue of mobile phones in education. The strategy seems to to address broadly infrastructure, but with the levels of mobile phones penetration and use, there’s need for strategic direction",0.04,0.96,0.0,0.1027,Positive
+Will be useful,0.592,0.408,0.0,0.4404,Positive
+"Connectivity and Infrastructure: Expand ICT infrastructure and affordable internet access in schools.
+Affordability is relative to both the offeror and the buyer. So how would the team ensure that remote and peri-urban areas can afford internet.",0.126,0.874,0.0,0.5994,Positive
+"From past experiences, urban areas enjoy the most from such initiatives because the peri-urban and remove areas are left to chance and most of them do not receive the necessary continuous support after such initiatives are launched.",0.222,0.778,0.0,0.8126,Positive
+"Also, there is the need to ensure that the facilities are not used by only the staff but the students. Again, from past experiences I know an institution that would only allow ICT students to use the computer lab about 2 times a term. However, the staff use the internet and computers whenever they wanted.",0.073,0.927,0.0,0.4854,Positive
+The collaboration and clear delineation of roles of the content innovators was perfect because they will work closely with the curriculum experts for alignment of contents in the various subjects.,0.184,0.816,0.0,0.743,Positive
+"This aspect was done perfectly, but the local content must be developed in a way that it may not discriminate against any ethnic group in Ghana.",0.094,0.906,0.0,0.3818,Positive
+The local content must be flexible for teachers to adjust it to their various settings for easy implementation.,0.231,0.769,0.0,0.5859,Positive
+"In developing local content, a National Repository of Approved Digital Learning Resources must be managed by NaCCA to wipe away the infiltration of the non-approved learning resources online.",0.094,0.906,0.0,0.4215,Positive
+"There must be the need to develop quality assurance rubrics for evaluating relevance, inclusivity, and cultural appropriateness of local content by NaCCA technical team to valid the rubrics.",0.082,0.918,0.0,0.34,Positive
+The must be strategic motivation drive through an incentivize teachers and EdTech innovators who develop high-quality localized local content through national grants or awards scheme.,0.249,0.751,0.0,0.743,Positive
+"To holistically foster the development of local content curriculum, I would recommend the integration of the above points into the policy.",0.111,0.889,0.0,0.3612,Positive
+I am a multimedia learning content creator. Again I must say this is great initiative. I would want to know if there is a body that runs training and support programs for animated/motion graphics learning contents.,0.197,0.803,0.0,0.7964,Positive
+"It’s a good piece, which is long overdue. Quick question is how well are we aligned with the ICT policy.",0.217,0.783,0.0,0.6124,Positive
+"It clearly gives an outline of what the whole Strategy is all about. That's good.""",0.301,0.699,0.0,0.6808,Positive
+very satisfactory,0.736,0.264,0.0,0.4201,Positive
+I like the fact that the policy addresses inclusivity,0.238,0.762,0.0,0.3612,Positive
+"It is a great step, and if effectively implemented, the strategy could transform Ghana’s education landscape and make it more inclusive, efficient, and globally competitive. However, it will require strong leadership, sustained investment, and ongoing stakeholder engagement to realize its full potential.",0.334,0.666,0.0,0.9522,Positive
+"Interactive digital platforms now make lessons more engaging, while assistive technologies ensure that learners with special needs are not left behind. With data systems offering real-time insights, teachers can better understand student progress and adapt their methods.",0.3,0.7,0.0,0.9134,Positive
+These technology should be complemented with industry or career linked curriculum to create a mindset on what the future workforce looks like to boost learners interest and confidence to continue to explore more into other areas of technological interest.,0.335,0.665,0.0,0.9393,Positive
+"For Ghana, the path ahead lies in the adoption of a hybrid innovation, one that combines the promise of cutting-edge technology with the practicality of offline access. It means equipping schools with both digital and non-digital tools that foster creativity, inclusivity, and critical thinking skilss. As Ghana strives it way to a digital journey toward a digitally empowered education system, success will depend not only on what technologies are introduced, but on how well they reach every learner, regardless of whereevr they are coming from.",0.124,0.824,0.052,0.6808,Positive
+helping me learn about the policy,0.306,0.694,0.0,0.296,Positive
+very excellent but i believe more should be done to train lecturers at colleges of education,0.143,0.857,0.0,0.3604,Positive
+"This is fantastic, and I believe it has the potential to revolutionize traditional learning methods.",0.205,0.795,0.0,0.5574,Positive
+I think the National EdTech Strategy is a brilliant idea and we must all hold it in high esteem. Great initiative I must say.,0.264,0.736,0.0,0.836,Positive
+"However, I think energy infrastructure, reliable electricity and good internet infrastructure directly supports the goals of the strategy. Without it, how do we develop the solutions we are working on. How do we develop the digital contents? How do we build? How do we get to leverage on remote work, remote learning and training. I think the energy infrastructure has to be prioritised to make the building of EdTech and its integration seamless.",0.146,0.854,0.0,0.8645,Positive
+So I would plead with key stakeholders to look into this because learning opportunities that can help the youth are missed because of fluctuating internet and energy supplies.,0.22,0.714,0.065,0.6369,Positive
+This is great. I want to see more on the expected role of communities and parents.,0.278,0.722,0.0,0.6597,Positive
+Great initiative,0.804,0.196,0.0,0.6249,Positive
+"We don't say learners with special needs, we say learners with intellectual disability",0.353,0.647,0.0,0.7184,Positive
+"Equity and Inclusion. includes all learners with disability, not those with special needs",0.0,0.842,0.158,-0.3089,Negative
+"Complementary Education Agency (CEA): Implements the EdTech Strategy in Complementary Education, integrates digital tools into classes and learning centers and monitors their usage and effectiveness.",0.0,1.0,0.0,0.0,Neutral
+"Ministry of Communications and Digitalization: Leads ICT development and broadband expansion, ensuring connectivity for schools, out-of-school classes and community learning centers and supporting digital inclusion initiatives.",0.172,0.828,0.0,0.6124,Positive
+TVET institutions should lead the way with the integration,0.0,1.0,0.0,0.0,Neutral
+TVET institutions should lead the way with the integration,0.0,1.0,0.0,0.0,Neutral
+Hope the ICT4AD policy document was looked at and that now the pivot will be on integration,0.153,0.847,0.0,0.4404,Positive
+"Wished the stakeholders should have included NGOs , Edtech product users, as well as funders and Research Institutions",0.11,0.89,0.0,0.2732,Positive
+Hope the ICT4AD policy document was looked at before the revised or new policy and that now the pivot will be on integration,0.116,0.884,0.0,0.4404,Positive
+"Great work, I hope the Learning and Teaching philosophies in the Standard-based curriculum were reflected upon in crafting these statements",0.28,0.72,0.0,0.7906,Positive
+How do I go about GSET objective 5&7,0.0,1.0,0.0,0.0,Neutral
+Hoping policies will be implemented going forward.,0.318,0.682,0.0,0.4215,Positive
+Funding plays a very significant and important role in this conversation around the EdTech strategy.,0.339,0.661,0.0,0.6318,Positive
+"The various initiatives being roled out are geared towards enhancing digital learning , creating innovative approaches to learning and driving growth across our educational corridors.",0.259,0.741,0.0,0.7717,Positive
+Start Ups need significant funding to role out initiatives looking at the vast nature of the problem we seek to solve and also the vast spread of the country with unequal access.,0.098,0.763,0.139,-0.3612,Negative
+"So finding from partners on finance, mentorship, guidance and access helps to continue the dialogue and deepen the questions for impact",0.115,0.885,0.0,0.3818,Positive
+"It's in the right perspective as any lapse in this regard will expose children to cyber bullying, inappropriate consumption and generally can erode the good of the impletation of this EdTech strategy. The risks have been enumerated as well as the mitigating factors . Also see redress when the system fails for some reason.",0.079,0.757,0.164,-0.6597,Negative
+The EdTech strategy will strengthen and foster better collaboration between all organisations in the ecosystem that seek to enhance the cause.,0.215,0.785,0.0,0.6369,Positive
+It will create opportunities for technology enhancement and integration as it seeks to have tech infused into our educational system which will enhance learner adaptation and improve teaching methods in general.,0.213,0.787,0.0,0.765,Positive
+"It will help also teachers immensely in their preparation of students as they will be exposed to current digital tools, trends and enablers which will impact their craft.",0.09,0.867,0.043,0.34,Positive
+"Foundations like MasterCard Foundation are then empowered to support organisations like Perbi Cubs and others with guided mentorships, funding and best practices to accelerate growth in the start up ecosystem.",0.367,0.633,0.0,0.926,Positive
+"It brings to bear the need of governmental and parastal organisations to work actively on the digital frame work which is what all adopters are asking for to guide research, implementation and sustainability of our digital agenda.",0.06,0.94,0.0,0.3182,Positive
+The strategy helps bridge disparities in the ecosystem.,0.271,0.729,0.0,0.3818,Positive
+Also sets the agenda for our Ai strategy as a nation.,0.0,1.0,0.0,0.0,Neutral
+what about the non government stakeholders?,0.0,1.0,0.0,0.0,Neutral
+Can we add recruiting qualified IT personnel as part of the IT system support?,0.172,0.828,0.0,0.4019,Positive
+The strategy document is still linked here. Please remove it,0.204,0.796,0.0,0.3182,Positive
+I like the focus on digital. I would like to drill down more on what is behind each objective,0.227,0.773,0.0,0.6124,Positive

@@ -6,6 +6,7 @@
 import os
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+import matplotlib.pyplot as plt
 
 # Initialize analyzer
 analyzer = SentimentIntensityAnalyzer()
@@ -13,7 +14,7 @@ analyzer = SentimentIntensityAnalyzer()
 # ------------------------------------------------
 # 1️⃣ STEP ONE: Load chatbot feedback
 # ------------------------------------------------
-data_path = "data/feedback.csv"
+data_path = "data/strategy.csv"
 
 if os.path.exists(data_path):
     # Load feedback from CSV file
@@ -64,26 +65,28 @@ print("\nResults saved to: data/sentiment_results.csv")
 
 
 # ------------------------------------------------
-# 5️⃣ STEP FIVE (Bonus): Visualize results
+# 5️⃣ STEP FIVE (Updated): Visualize results with a PIE chart
 # ------------------------------------------------
-import matplotlib.pyplot as plt
-
-# Count how many feedback entries fall into each sentiment category
 sentiment_counts = df["Sentiment"].value_counts()
 
-# Create a bar chart
-plt.figure(figsize=(6, 4))
-plt.bar(sentiment_counts.index, sentiment_counts.values)
+# Create a pie chart
+plt.figure(figsize=(6, 6))
+plt.pie(
+    sentiment_counts.values,
+    labels=sentiment_counts.index,
+    autopct="%1.1f%%",
+    startangle=90,
+    shadow=True,
+    explode=[0.05]*len(sentiment_counts),  # Slightly separate each slice
+)
+plt.title("Strategy Feedback Sentiment Distribution", fontsize=14)
+plt.tight_layout()
 
-# Add chart title and labels
-plt.title("Chatbot Feedback Sentiment Distribution")
-plt.xlabel("Sentiment Category")
-plt.ylabel("Number of Feedbacks")
-
-# Add value labels on top of bars
-for i, count in enumerate(sentiment_counts.values):
-    plt.text(i, count + 0.1, str(count), ha="center", fontsize=10)
+# ✅ Save the pie chart as an image (PNG format)
+output_path = "data/strategy_sentiment_pie_chart.png"
+plt.savefig(output_path, dpi=300, bbox_inches="tight")
+print(f"\n📊 Pie chart saved as: {output_path}")
 
 # Display the chart
-plt.tight_layout()
 plt.show()
+
